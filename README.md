@@ -1,4 +1,3 @@
 # gitskills
 pracitce
-<<<<<<< HEAD
 aaaa
