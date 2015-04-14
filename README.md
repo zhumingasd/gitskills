@@ -1,4 +1,3 @@
 # gitskills
 pracitce
-bracme
-ffff
+
