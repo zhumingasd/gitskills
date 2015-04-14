@@ -1,5 +1,6 @@
 # gitskills
 pracitce
+ffff
 aaaa
 <<<<<<< HEAD
 ffff
