@@ -1,5 +1,6 @@
 # gitskills
 pracitce
+<<<<<<< Updated upstream
 test2
 master
 master
@@ -8,3 +9,6 @@ dev
 a bug
 doing on dev
 
+=======
+doing on dev
+>>>>>>> Stashed changes
